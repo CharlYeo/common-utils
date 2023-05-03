@@ -1,3 +1,3 @@
-module github.com/ik/common-utils
+module github.com/CharlYeo/common-utils
 
 go 1.17
